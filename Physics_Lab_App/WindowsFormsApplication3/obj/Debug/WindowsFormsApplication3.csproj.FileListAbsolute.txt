@@ -1,0 +1,221 @@
+c:\users\pc\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\pc\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\pc\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\pc\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+c:\users\pc\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.FormCapictor.resources
+C:\Users\pc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\pc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\pc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Venturi_tube.resources
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication8.pdb
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.AssemblyReference.cache
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.FormCapictor.resources
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Venturi_tube.resources
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CopyComplete
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Experiment_2.resources
+F:\Project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.expirement_1.resources
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Experiment_2.resources
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.expirement_1.resources
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_4.resources
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.FormCapictor.resources
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Venturi_tube.resources
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Ali Maher\Downloads\Telegram Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Experiment_2.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.expirement_1.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_4.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.FormCapictor.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Venturi_tube.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Magnetic_Field.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Experiment_2.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.expirement_1.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_4.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_5.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.FormCapictor.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Magnetic_Field.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Venturi_tube.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (12)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Experiment_2.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.expirement_1.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_4.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_5.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Magnetic_Field.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Venturi_tube.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Experiment_2.resources
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.expirement_1.resources
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_3.resources
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_4.resources
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_5.resources
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.FormCapictor.resources
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Magnetic_Field.resources
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Venturi_tube.resources
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.Electrical_Equivlanet_of_heat.resources
+C:\Users\pc\Downloads\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.Venturi_tube_message_box.resources
+H:\New folder\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+H:\New folder\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+H:\New folder\Last edited\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Experiment_2.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.expirement_1.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_4.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_5.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Magnetic_Field.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Venturi_tube.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.heat_msg.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Experiment_2.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.expirement_1.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_3.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_4.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_5.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.FormCapictor.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Magnetic_Field.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Venturi_tube.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.heat_msg.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.MF.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Ali\Downloads\WindowsFormsApplication3 (1) (1)\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Experiment_2.resources
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.expirement_1.resources
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_3.resources
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_4.resources
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_5.resources
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.FormCapictor.resources
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Magnetic_Field.resources
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Venturi_tube.resources
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.heat_msg.resources
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.MF.resources
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\pc\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.MF.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Experiment_2.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.expirement_1.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_4.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_5.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Magnetic_Field.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Venturi_tube.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.heat_msg.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.MF.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Ali Maher\Downloads\WindowsFormsApplication3 (1)\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.VT.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.heat_msg.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.MF.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.k.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.m.resources
+C:\Users\Ali Maher\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Done_by.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Done_by.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Experiment_2.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.expirement_1.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_4.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Expirement_5.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Magnetic_Field.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.Venturi_tube.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.k.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.m.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.VT.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.heat_msg.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Messageboxforms.MF.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\pc\Downloads\Compressed\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache

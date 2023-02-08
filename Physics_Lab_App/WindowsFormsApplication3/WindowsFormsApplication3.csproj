@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{07BA83FE-EF21-4571-8609-7C262664B6D9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication3</RootNamespace>
+    <AssemblyName>WindowsFormsApplication3</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsFormsApplication8">
+      <HintPath>..\..\..\..\..\Downloads\WindowsFormsApplication8(2)\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Done by.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Done by.Designer.cs">
+      <DependentUpon>Done by.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Experiment 2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Experiment 2.Designer.cs">
+      <DependentUpon>Experiment 2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\expirement 1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\expirement 1.Designer.cs">
+      <DependentUpon>expirement 1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Expirement 4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Expirement 4.Designer.cs">
+      <DependentUpon>Expirement 4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Expirement 5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Expirement 5.Designer.cs">
+      <DependentUpon>Expirement 5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Magnetic Field2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Magnetic Field2.Designer.cs">
+      <DependentUpon>Magnetic Field2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Venturi tube.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Venturi tube.Designer.cs">
+      <DependentUpon>Venturi tube.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Messageboxforms\k.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Messageboxforms\k.Designer.cs">
+      <DependentUpon>k.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Messageboxforms\m.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Messageboxforms\m.Designer.cs">
+      <DependentUpon>m.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Messageboxforms\VT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Messageboxforms\VT.Designer.cs">
+      <DependentUpon>VT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Messageboxforms\heat msg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Messageboxforms\heat msg.Designer.cs">
+      <DependentUpon>heat msg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Messageboxforms\MF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Messageboxforms\MF.Designer.cs">
+      <DependentUpon>MF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThemoColor.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Done by.resx">
+      <DependentUpon>Done by.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Experiment 2.resx">
+      <DependentUpon>Experiment 2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\expirement 1.resx">
+      <DependentUpon>expirement 1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Expirement 4.resx">
+      <DependentUpon>Expirement 4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Expirement 5.resx">
+      <DependentUpon>Expirement 5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Magnetic Field2.resx">
+      <DependentUpon>Magnetic Field2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Venturi tube.resx">
+      <DependentUpon>Venturi tube.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messageboxforms\k.resx">
+      <DependentUpon>k.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messageboxforms\m.resx">
+      <DependentUpon>m.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messageboxforms\VT.resx">
+      <DependentUpon>VT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messageboxforms\heat msg.resx">
+      <DependentUpon>heat msg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messageboxforms\MF.resx">
+      <DependentUpon>MF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capictor Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capictor Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capictor Image2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capictor Image3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undefined - Imgur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undefined - Imgur1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undefined - Imgur2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undefined - Imgur %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undefined - Imgur %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undefined - Imgur %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2022-12-14 2138461.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2022-12-14 21384611.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2022-12-14 220533.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q9GpAET - Imgur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\r3zt9rq - Imgur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YhlTRHG - Imgur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buOrm7L - Imgur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3NHCOMQ - Imgur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q9GpAET - Imgur %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q9GpAET - Imgur %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\q9GpAET - Imgur %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YhlTRHG - Imgur %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2023-02-08_180952.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2023-02-08_184822.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
